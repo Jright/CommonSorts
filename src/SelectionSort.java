@@ -1,11 +1,11 @@
 /**
- * Created by jeremy on 17年7月3日.
+ * Created by jeremy on 2017Y 7M 3D.
  */
 public class SelectionSort {
 
 
     /*
-     * 
+     *
      * */
 
     private static int[] array = {5,7,3,2,9,0,1};
